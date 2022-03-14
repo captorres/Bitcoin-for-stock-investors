@@ -30,7 +30,7 @@ After data treatment, the time horizon considered in the study was from February
 
 ## Methodology and packages
 
-As the purpose of the study is to simply analyze behavior of historical data, only exploratory data analysis were accomplished and simple statistics such as mean, standard deviation and correlation coeficient were calculated. Visual representation of the results are important part of the project. Application of machine learning algorithms was not necesary.
+As the purpose of the study is to simply analyze behavior of historical data, only exploratory data analysis were accomplished and simple statistics such as mean, standard deviation and correlation coefficient were calculated. Visual representation of the results are important part of the project. Application of machine learning algorithms was not necessary.
 Python 3 was the software used, more precisely the packages:
 * Pandas and Numpy for data manipulation and calculations
 * Matplotlib, Seaborn and Plotly for visualization
